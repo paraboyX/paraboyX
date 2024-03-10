@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ranitnaha123@gmail.com**
 
-- ⚡ Fun fact **Calm in mind destroyer in lines**
+- ⚡**Calm in mind destroyer in lines**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
