@@ -64,7 +64,7 @@
 🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!
 
 <p>
-  <a href="ranitnaha123@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="mailto:ranitnaha123@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
   <a href="wa.me/9863463300" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-42e35f?style=flat-square&logo=whatsapp&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ranit-naha-6823b4190/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
 </p>
