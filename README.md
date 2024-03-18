@@ -3,11 +3,13 @@
    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  alt="animation"  />
 </div>
 
-
+###
 
 <div align="center">
    <p>Hi 👋! My name is Ranit and I'm a CS enthusiast, from India<p>
 </div>
+
+###
 
 <div align="center" padding="10">
    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  alt="animation"  />
