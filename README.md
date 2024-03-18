@@ -6,6 +6,7 @@
 </div>
 
 ###
+<br>
 
 <div align="center">
    <p>Hi 👋! My name is Ranit and I'm a CS enthusiast, from India<p>
