@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://gifer.com/en/g1IZ"  />
+<img align="right" height="150" src="https://i.gifer.com/g1IZ.gif"  />
 
 ###
 
@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ###
