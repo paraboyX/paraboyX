@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Ranit and I'm a CS enthusiast, from India</h2>
+<br clear="both">
+ <div align="center">
+   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  alt="animation"  />
+</div>
+
+
+<h2 align="center">Hi 👋! My name is Ranit and I'm a CS enthusiast, from India</h2>
 
 ###
 
