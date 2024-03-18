@@ -10,7 +10,6 @@
    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  alt="animation"  />
 </div>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paraboyX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
