@@ -62,7 +62,7 @@
    <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"  alt="animation"  />
 </div>
 
-## Let's colab 🚀
+## Let's collab 🚀
 
 🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!
 
