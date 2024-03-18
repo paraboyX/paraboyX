@@ -3,7 +3,7 @@
    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  alt="animation"  />
 </div>
 
-<h2 align="center" border="none">Hi 👋! My name is Ranit and I'm a CS enthusiast, from India</h2>
+<h2 align="center" border="none" margin="5">Hi 👋! My name is Ranit and I'm a CS enthusiast, from India</h2>
 
 
 <div align="center">
