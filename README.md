@@ -75,9 +75,6 @@
 
 ###
 
-[![Ranit`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paraboyX&theme=github-compact)](https://github.com/paraboyX/github-readme-activity-graph)
-
-###
 
 <br clear="both">
  <div align="center">
