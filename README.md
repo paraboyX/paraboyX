@@ -6,7 +6,7 @@
 
 
 <div align="center">
-   <p align="center" text="bold">Hi 👋! My name is Ranit and I'm a CS enthusiast, from India</p>
+   <h2>Hi 👋! My name is Ranit and I'm a CS enthusiast, from India</h2>
 </div>
 
 <div align="center">
